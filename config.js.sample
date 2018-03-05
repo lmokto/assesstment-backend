@@ -1,0 +1,8 @@
+var mysql = {
+  "host": "localhost",
+  "user": "",
+  "password": "",
+  "database": "assesstment"
+}
+
+module.exports.mysql = mysql
